@@ -1,1 +1,6 @@
-GenFig1
+# GenFig1 – Supplementary Data  `v0.1-anon`
+
+This repository hosts the dataset used in  
+**“GENFIG1: Visual Summaries of Scholarly Work as a Challenge for Vision-Language Models”** (AAAI 2026, under review).
+
+All split archives live in **Releases → “AAAI 2026 supplementary v0.1-anon”**.  
